@@ -1,0 +1,19 @@
+{
+  "name": "aladin-scraper",
+  "version": "1.0.0",
+  "description": "web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "Jesus Solis",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0",
+    "scrape-it": "^5.3.2"
+  }
+}
